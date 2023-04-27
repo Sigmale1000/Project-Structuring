@@ -30,6 +30,8 @@ Before starting any project, it's crucial to gather and document requirements. T
 
 ### Tools & Resources
 
+- [Good questions for Requirements Engineering](https://github.com/Sigmale1000/Requirements-Engineering)
+
 - [User Stories](https://www.mountaingoatsoftware.com/agile/user-stories): A technique for capturing software requirements
 - [Product Requirements Document (PRD)](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-product-requirements-document-prd): A guide on creating a PRD for software projects
 
