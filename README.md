@@ -1,6 +1,19 @@
-# Project Structuring Guide
+<div align="center" width="100%">
+<h1>Project Structuring Guide :question: :clipboard:</h1>
+<p>This repository serves as a comprehensive guide to structuring projects, outlining key steps and best practices for planning, developing, deploying, and maintaining software applications.</p>
+</div>
 
-This repository serves as a comprehensive guide to structuring projects, outlining key steps and best practices for planning, developing, deploying, and maintaining software applications.
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/Sigmale1000/Project-Structuring?style=social)
+![Forks](https://img.shields.io/github/forks/Sigmale1000/Project-Structuring?style=social)
+![Issues](https://img.shields.io/github/issues/Sigmale1000/Project-Structuring)
+![License](https://img.shields.io/github/license/Sigmale1000/Project-Structuring)
+![Contributors](https://img.shields.io/github/contributors/Sigmale1000/Project-Structuring)
+![Last Commit](https://img.shields.io/github/last-commit/Sigmale1000/Project-Structuring)
+![Repo Size](https://img.shields.io/github/repo-size/Sigmale1000/Project-Structuring)
+
+</div>
 
 ## Table of Contents
 
